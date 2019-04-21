@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Arthaey Angosii"
+        ]
+    },
+    "myextension": "PhpInfo",
+    "myextension-desc": "Shows the output of phpinfo()",
+    "myextension-summary": "Shows the output of phpinfo()"
+}
